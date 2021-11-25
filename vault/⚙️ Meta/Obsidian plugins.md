@@ -12,6 +12,7 @@ List of plugins [[🪴 Tending this Garden|🪴 This Garden]] uses.
 - **Tag pane** to list the tags and their number of occurrences
 - **Outline** to show the outline of a note in a pane
 - **Starred** to mark notes as "favorites"
+- **Daily notes** to create journal notes.
 
 ## Community
 > 🔥 These require turning `Safe mode` OFF.
@@ -22,3 +23,4 @@ List of plugins [[🪴 Tending this Garden|🪴 This Garden]] uses.
 - **Advanced tables** for autoformatting markdown tables.
 - **Templater** for more fancy templates.
 - **Tag wrangler** for easy renaming and merging of tags.
+- **Calendar** for a fancy calendar pane.
