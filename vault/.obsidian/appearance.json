@@ -1,0 +1,8 @@
+{
+  "baseFontSize": 20,
+  "cssTheme": "Clair de Lune",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "custom"
+  ]
+}

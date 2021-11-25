@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "475b28919684fb71",
+    "type": "split",
+    "children": [
+      {
+        "id": "17b354d2e1bcc7e3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "⚙️ Meta/🪴 Tending this Garden.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4f7d84631792911",
+    "type": "split",
+    "children": [
+      {
+        "id": "27c2c8282529dc71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7879565e24c8282",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ff002483c84604b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#on/pkm",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b3176fb3188ed82",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6fae3238912b838",
+    "type": "split",
+    "children": [
+      {
+        "id": "4040bf7e065163eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "587ca32253515d73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "⚙️ Meta/🪴 Tending this Garden.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "342dd2e8a71e61ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a073ccdc66b48422",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "⚙️ Meta/🪴 Tending this Garden.md"
+              }
+            }
+          },
+          {
+            "id": "656d0fd4dc5b03b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 532
+  },
+  "active": "17b354d2e1bcc7e3",
+  "lastOpenFiles": [
+    "⚙️ Meta/🪴 Tending this Garden.md",
+    "⚙️ Meta/Obsidian plugins.md",
+    "🌸 I am here.md",
+    "🏝 Spaces/📓 Journal/2021-11-25.md",
+    "🌱 Seedbox/Literature notes.md",
+    "⚙️ Meta/Tag taxonomy.md",
+    "⚙️ Meta/Folder structure.md",
+    "⚙️ Meta/📐 Templates/Daily.md",
+    "⚙️ Meta/📐 Templates/New seedling.md",
+    "🌳 The Forest/Memento mori.md"
+  ]
+}
