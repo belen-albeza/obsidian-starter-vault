@@ -12,6 +12,6 @@ Ways of achieving this:
 
 - Using **plain text files**, which are easily readable.
 - **Backing up** on the cloud so there is no data loss.
-- Maintaining independence from the actual tool or app used.
+- Maintaining **independence** from the actual tool or app used.
     - Use of standard features and formats, like Markdown, WikiLinks, etc.
     - Favoring [[Open-source software]] whenever posible.

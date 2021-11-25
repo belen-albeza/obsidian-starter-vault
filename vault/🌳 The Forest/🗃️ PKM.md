@@ -11,6 +11,7 @@ Some important concepts are:
 - [[Evergreen notes]]
 - [[Maps of contents]]
 - [[PKM systems should be future-proof]]
+- [[Digital garden]]
 
 PKM is related to [[Learning]] and [[Productivity]].
 

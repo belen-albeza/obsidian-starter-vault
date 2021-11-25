@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "⚙️ Meta/🗺️ Map of maps.md",
+            "file": "🌳 The Forest/We should write notes with our own words.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚙️ Meta/🗺️ Map of maps.md",
+                "file": "🌳 The Forest/We should write notes with our own words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚙️ Meta/🗺️ Map of maps.md"
+                "file": "🌳 The Forest/We should write notes with our own words.md"
               }
             }
           },
@@ -121,19 +121,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 532
+    "width": 532,
+    "collapsed": true
   },
   "active": "17b354d2e1bcc7e3",
   "lastOpenFiles": [
-    "⚙️ Meta/🗺️ Map of maps.md",
-    "⚙️ Meta/🪴 Tending this Garden.md",
-    "⚙️ Meta/Tag taxonomy.md",
-    "⚙️ Meta/Obsidian plugins.md",
-    "⚙️ Meta/Folder structure.md",
-    "🌳 The Forest/Atomic notes.md",
+    "🌳 The Forest/We should write notes with our own words.md",
+    "🌳 The Forest/To create more and consume less.md",
+    "🌳 The Forest/Stoicism.md",
+    "🌳 The Forest/PKM systems should be future-proof.md",
+    "🌳 The Forest/Notes should be densely linked.md",
+    "🌳 The Forest/Note-making vs note-taking.md",
+    "🌳 The Forest/Memento mori.md",
+    "🌳 The Forest/Maps of contents.md",
     "🌳 The Forest/🗃️ PKM.md",
-    "🌳 The Forest/Evergreen notes.md",
-    "🌳 The Forest/Digital garden.md",
-    "🌳 The Forest/List of digital gardeners.md"
+    "🌳 The Forest/Digital garden.md"
   ]
 }
