@@ -4,14 +4,14 @@ tags: meta/moc on/pkm
 
 # 🗃️ PKM
 
-Personal Knowledge Management (or PKM) is a process an individual uses to **collect** and **classify** information and ideas.
+**Personal Knowledge Management** (or PKM) is a process an individual uses to **collect** and **classify** information and ideas.
 
 Some important concepts are:
 
-- [[Evergreen notes]]
+- [[Evergreen notes are always evolving]]
 - [[Maps of contents]]
 - [[PKM systems should be future-proof]]
-- [[Digital garden]]
+- [[A digital garden is a non-linear collection of notes]]
 
 PKM is related to [[Learning]] and [[Productivity]].
 

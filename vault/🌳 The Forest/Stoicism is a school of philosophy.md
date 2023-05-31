@@ -3,7 +3,7 @@ tags: state/seedling on/philosophy
 alias: ["Stoics", "Stoic"]
 ---
 
-# Stoicism
+# Stoicism is a school of philosophy
 
 Stoicism is a school of [[Philosophy]] that appeared circa 300 BC.
 

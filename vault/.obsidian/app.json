@@ -6,5 +6,6 @@
   "attachmentFolderPath": "⚙️ Meta/📎 Attachments",
   "newFileLocation": "folder",
   "newFileFolderPath": "🌱 Seedbox",
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": false
 }

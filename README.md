@@ -9,3 +9,4 @@
 3. Go to the note `🌸 I am here` as starting point.
 
 For information on how the vault is set up, open the note `⚙️ Meta/🪴 Tending this Garden`.
+

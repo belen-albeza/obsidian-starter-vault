@@ -4,14 +4,14 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "tag-pane",
   "page-preview",
   "daily-notes",
   "note-composer",
   "command-palette",
-  "starred",
+  "bookmarks",
   "outline",
   "word-count",
-  "open-with-default-app",
   "file-recovery"
 ]

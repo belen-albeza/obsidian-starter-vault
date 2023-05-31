@@ -4,13 +4,13 @@
 
 List of tags and how they are being used in [[🪴 Tending this Garden|🪴 This Garden]].
 
-## [[Evergreen notes]] state
+## [[Evergreen notes are always evolving|Evergreen notes]] states
 
 - `#state/seedling` for newly created notes, in need of developing and connections.
 - `#state/bud` for notes that are developed, but lacking good connections.
 - `#state/forest` for fully formed, well-connected evergreen notes.
 
-## [[Literature notes]] type
+## [[Literature notes capture sources|Literature notes]] types
 
 - `#sources/book` for books.
 - `#sources/video` for a YouTube video, or a movie, a documentary, etc.

@@ -11,7 +11,7 @@ A map of contents (or MOC) is a [[🗃️ PKM]] concept. It's a type of note who
 
 The key point here is that **a MOC is not a full index**, but a gateway.
 
-MOCs are evolved with time, like [[Evergreen notes]]. They might start as just a listing of related notes, and while those notes continue to be developed and connected, so will the MOC start to take form.
+MOCs are evolved with time, like [[Evergreen notes are always evolving|Evergreen notes]]. They might start as just a listing of related notes, and while those notes continue to be developed and connected, so will the MOC start to take form.
 
 I first learned of this concept from [[Milo, Nick|Nick Milo]]. See [[Milo, Nick - On the process of making MOCs|2020 🕸️ On the process of making MOCs]].
 

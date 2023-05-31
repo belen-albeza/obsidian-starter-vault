@@ -5,7 +5,7 @@ tags: meta/moc
 
 # 🪴 Tending this Garden
 
-It's Garden, with capital `G`, because this is my [[Digital garden]].
+It's Garden, with capital `G`, because this is my [[A digital garden is a non-linear collection of notes|Digital garden]].
 
 ## Setup
 

@@ -1,8 +1,9 @@
 {
-  "baseFontSize": 20,
-  "cssTheme": "Clair de Lune",
+  "baseFontSize": 14,
+  "cssTheme": "Minimal",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "custom"
-  ]
+  ],
+  "accentColor": "#9985ff"
 }

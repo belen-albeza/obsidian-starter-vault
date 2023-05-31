@@ -1,15 +1,16 @@
 ---
 tags: state/forest on/pkm
+alias: Digital garden
 ---
 
 [[🗃️ PKM]]
 
-# Digital garden
+# A digital garden is a non-linear collection of notes
 
 ==A digital garden is a collection of notes== that is:
 
 - **Explorable in a non-linear way**. [[Notes should be densely linked]], building connections among them.
-- **Grown over time**. The core part of a garden are [[Evergreen notes]].
+- **Grown over time**. The core part of a garden are [[Evergreen notes are always evolving|Evergreen notes]].
 
 The purpose of a garden is to **accumulate knowledge over time**.
 

@@ -7,6 +7,6 @@ Folders are meant to be big buckets of notes. [[🪴 Tending this Garden|🪴 Th
     - `📎 Attachments` contains all the file attachments
     - `📐 Templates` for Obsidian templates
 - `🌱 Seedbox` for notes whose location is not yet clear, scratchpads, quick writedowns of ideas…
-- `🌳 The Forest` for [[Evergreen notes]]. Most notes of the Garden live here.
+- `🌳 The Forest` for [[Evergreen notes are always evolving|Evergreen notes]]. Most notes of the Garden live here.
 - `🏝️ Spaces` for projects or other endeavors which need their own separate space/folder.
-- `💧 Sources` for [[Literature notes]] on books, courses, videos…
+- `💧 Sources` for [[Literature notes capture sources|Literature notes]] on books, courses, videos…
